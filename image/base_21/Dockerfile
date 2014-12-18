@@ -2,7 +2,7 @@
 # When new LTS ships we can upgrade
 
 # VERSION 0.2.0
-FROM ubuntu:14.04
+FROM armbuild/ubuntu:14.04
 
 MAINTAINER Sam Saffron "https://twitter.com/samsaffron"
 

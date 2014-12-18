@@ -1,4 +1,4 @@
-FROM samsaffron/discourse_test:latest
+FROM armbuild/samsaffron-discourse_test:latest
 
 MAINTAINER Gerhard Schlager <mail@gerhard-schlager.at>
 
